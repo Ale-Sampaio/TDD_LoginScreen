@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/aluno/Documents/NetBeansProjects/LoginScreen/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/aluno/Documents/NetBeansProjects/LoginScreen/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LoginScreen 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LoginScreen 1.0-SNAPSHOT API'
+com.mycompany.loginscreen
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\src\main\java = 1715726568216
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\allclasses-index.html = 1715728836600
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\allpackages-index.html = 1715728836608
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\copy.svg = 1715728836689
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\element-list = 1715728836519
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\help-doc.html = 1715728836674
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\index-all.html = 1715728836651
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\index.html = 1715728836667
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\jquery-ui.overrides.css = 1715728836958
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\member-search-index.js = 1715728836625
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\module-search-index.js = 1715728836615
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\overview-tree.html = 1715728836578
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\package-search-index.js = 1715728836618
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\script.js = 1715728836689
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\search-page.js = 1715728836715
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\search.html = 1715728836659
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\search.js = 1715728836707
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\stylesheet.css = 1715728836674
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\tag-search-index.js = 1715728836630
+C:\Users\aluno\Documents\NetBeansProjects\LoginScreen\target\site\apidocs\type-search-index.js = 1715728836622
