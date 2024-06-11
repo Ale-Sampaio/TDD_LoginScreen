@@ -23,9 +23,4 @@ A classe de teste `LoginScreenTest` contém testes JUnit para garantir o funcion
 
 ## Configuração e Execução dos Testes
 
-Para executar os testes com sucesso, certifique-se de configurar o framework JUnit em seu ambiente de desenvolvimento. Aqui estão os passos básicos para configurar e executar os testes:
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/tdd-loginscreen.git
-   cd tdd-loginscreen
+Para executar os testes com sucesso, certifique-se de configurar o framework JUnit em seu ambiente de desenvolvimento.
